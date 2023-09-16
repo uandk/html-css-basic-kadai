@@ -1,0 +1,8 @@
+＜ディレクトリ構成＞
+kadai_022
+├── kadai_022.html
+└── style.css
+└── images
+      └── rainy.png
+      └── sunny.png
+      └── cloudy.png
